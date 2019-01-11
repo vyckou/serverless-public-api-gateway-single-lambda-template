@@ -1,0 +1,1 @@
+# serverless-public-api-gateway-single-lambda-template
